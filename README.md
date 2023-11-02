@@ -1,4 +1,4 @@
-I am a 4th year Ph.D. student in [FPGA/Parallel Computing Lab](https://fpga.usc.edu) at University of Southern California, advised by [Prof. Prasanna](https://sites.usc.edu/prasanna/).
+I am a Ph.D. Candidate in [FPGA/Parallel Computing Lab](https://fpga.usc.edu) at University of Southern California, advised by [Prof. Prasanna](https://sites.usc.edu/prasanna/).
 I'm interested in Graph Neural Networks, Hardware Accelerators/HPC, and Heterogeneous Computing. I have published several papers in HPC-, ASIC-, and FPGA-related conferences in the past three years. 
 Please refer to my personal [website](https://jasonlin316.github.io/publications/) for more details.
 
